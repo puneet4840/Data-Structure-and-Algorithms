@@ -1,0 +1,2 @@
+Array is sequence of similar type of elements.
+To store the multiple elements in a sequence so that we use array.
